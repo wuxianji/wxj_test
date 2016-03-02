@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jdk1.8.0_45"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="lib" path="lib/geronimo-j2ee-management_1.1_spec-1.0.1.jar"/>
+	<classpathentry kind="lib" path="lib/geronimo-jms_1.1_spec-1.1.1.jar"/>
+	<classpathentry kind="lib" path="lib/javax.jms.jar"/>
+	<classpathentry kind="lib" path="lib/slf4j-api-1.7.10.jar"/>
+	<classpathentry kind="lib" path="lib/activemq-client-5.11.1.jar"/>
+	<classpathentry kind="lib" path="lib/comm.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="lib/jnative-1.4RC3.jar" sourcepath="E:/jar包/调用windows api/JNative_1.4RC3_src.zip"/>
+	<classpathentry kind="lib" path="lib/jfinal-2.1-bin-with-src.jar"/>
+	<classpathentry kind="lib" path="E:/JFinal资料/2.1/jfinal-2.1-all (3)/jfinal-2.1-all/jfinal-2.1-lib/redis/objenesis-2.1.jar"/>
+	<classpathentry kind="lib" path="E:/JFinal资料/2.1/jfinal-2.1-all (3)/jfinal-2.1-all/jfinal-2.1-lib/redis/commons-pool2-2.3.jar"/>
+	<classpathentry kind="lib" path="E:/JFinal资料/2.1/jfinal-2.1-all (3)/jfinal-2.1-all/jfinal-2.1-lib/redis/fst-2.29.jar"/>
+	<classpathentry kind="lib" path="E:/JFinal资料/2.1/jfinal-2.1-all (3)/jfinal-2.1-all/jfinal-2.1-lib/redis/jackson-core-2.5.3.jar"/>
+	<classpathentry kind="lib" path="E:/JFinal资料/2.1/jfinal-2.1-all (3)/jfinal-2.1-all/jfinal-2.1-lib/redis/javassist-3.19.0-GA.jar"/>
+	<classpathentry kind="lib" path="E:/JFinal资料/2.1/jfinal-2.1-all (3)/jfinal-2.1-all/jfinal-2.1-lib/redis/jedis-2.7.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
